@@ -64,13 +64,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-
-Get the book
-
-Explore More Books
-Browse the full list of curated titles to boost your coding skills.
-
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-Profile Readme Generator
