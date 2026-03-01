@@ -1,9 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div align="center">
   <img height="200" src="https://pbs.twimg.com/profile_images/1885330552611368960/NugrOerT_400x400.jpg"  />
 </div>
